@@ -29,8 +29,8 @@ Since April 2024, I've been diving into the world of programming with passion an
 - Expanding my programming language repertoire
 
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](MAILTO:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/michelangelo-candela-259a92174/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](MAILTO:michelangeloc97@gmail.com)
 
 ---
 
@@ -38,6 +38,6 @@ Since April 2024, I've been diving into the world of programming with passion an
 *"Cu ave lingua passa u mare"* 🇮🇹
 *(Who has language, crosses the sea)*
 
-Every expert was once a beginner. Keep coding, keep learning! 💻🌍
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Michijiz.Michijiz)

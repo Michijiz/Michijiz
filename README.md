@@ -12,8 +12,7 @@ Since April 2024, I've been diving into the world of programming with passion an
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 🌟 My Coding Philosophy
-*"Every line of code is an opportunity to solve a problem and make the world a little bit simpler."*
+
 
 ## 📊 GitHub Stats
 ![Michijiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michijiz&theme=radical&show_icons=true&include_all_commits=true&count_private=true)

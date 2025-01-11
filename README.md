@@ -18,7 +18,7 @@ Since April 2024, I've been diving into the world of programming with passion an
 ## 📊 GitHub Stats
 ![Michijiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michijiz&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 
-## 🌈 What Drives Me
+## 🏎 What Drives Me
 - 💡 Transforming complex challenges into elegant solutions
 - 🧩 Continuous learning and skill expansion
 - 🤝 Creating technology that makes a difference
@@ -34,6 +34,10 @@ Since April 2024, I've been diving into the world of programming with passion an
 
 ---
 
-⭐ **Remember:** Every expert was once a beginner. Keep coding, keep learning!
+⭐ **Remember:** 
+*"Cu ave lingua passa u mare"* 🇮🇹
+*(Who has language, crosses the sea)*
+
+Every expert was once a beginner. Keep coding, keep learning! 💻🌍
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Michijiz.Michijiz)

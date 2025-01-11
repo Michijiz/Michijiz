@@ -34,7 +34,7 @@ Since April 2024, I've been diving into the world of programming with passion an
 ---
 
 🎙 **Remember:** 
-*"Cu ave lingua passa u mare"* 🇮🇹
+*"Cu ave lingua passa u mare"* 
 *(Who has language, crosses the sea)*
 
 

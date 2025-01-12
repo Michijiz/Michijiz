@@ -16,13 +16,13 @@
 ## 📊 GitHub Stats
 ![Michijiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michijiz&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 
-## 🏎 What Drives Me
+## 🕳️ What Drives Me 🕳️
 - 💡 Transforming complex challenges into elegant solutions
 - 🧩 Continuous learning and skill expansion
 - 🤝 Creating technology that makes a difference
 
 
-## 📬 Let's Connect!
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelangelo-candela-259a92174/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](MAILTO:michelangeloc97@gmail.com)
 

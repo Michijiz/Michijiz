@@ -1,7 +1,6 @@
 # 👋 Hey There! I'm Michijiz
 
-## 🌱 My Coding Journey
-Since April 2024, I've been diving into the world of programming with passion and determination. After completing an intensive 4-month course, I've been on a mission to transform creative ideas into functional, impactful code. My journey is about more than just writing lines of code - it's about crafting solutions that can simplify and enhance people's daily experiences.
+
 
 ## 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -22,10 +21,6 @@ Since April 2024, I've been diving into the world of programming with passion an
 - 🧩 Continuous learning and skill expansion
 - 🤝 Creating technology that makes a difference
 
-## 🔍 Currently Exploring
-- Deepening my understanding of modern web technologies
-- Building projects that solve real-world problems
-- Expanding my programming language repertoire
 
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelangelo-candela-259a92174/)
